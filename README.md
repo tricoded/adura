@@ -1,3 +1,3 @@
-# growth_demo
+# demo
 
 A new Flutter project.
